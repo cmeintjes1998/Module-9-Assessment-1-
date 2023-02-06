@@ -2,10 +2,11 @@
     transform:rotate(180deg);
     font-family :"Railway" sans-serif;
     text-align: center;
+    border-bottom:2px;
 }
 
 body{
-    background-color:darkcyan;
+    background-color:darkgrey;
 }
 .container{
     width:100%;
